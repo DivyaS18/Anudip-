@@ -11,7 +11,7 @@ This folder contains the questions regarding the loops.
   - **While Loop**: Continues executing as long as a specified condition remains true, useful for dynamic or unknown iteration counts.
     
 - **Control Variables**: Variables that manage the iteration process, such as counters or indices.
-- 
+ 
 - **Termination**: Includes a condition or mechanism to stop the loop and avoid infinite execution.
-- 
+  
 - **Usage**: Crucial for tasks like traversing data structures, performing repetitive operations, and automating workflows.
