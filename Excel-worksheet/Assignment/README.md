@@ -1,6 +1,7 @@
 This document provides a brief overview of various Excel functions and features used for managing and analyzing data
 
 Excel Function and Features
+
 **1. IF Function**
 
 **Description:**
@@ -169,15 +170,15 @@ Find the average sales for employees in the North region with project hours abov
 
 Where I2:I201 is the region range, H2:H201 is the sales range, and J2:J201 is the project hours range.
 ________________________________________
-12. MAXIFS Function
+**12. MAXIFS Function**
     
-Description:
+**Description:**
 The MAXIFS function returns the maximum value in a range based on multiple criteria.
 
-Syntax:
+**Syntax:**
 =MAXIFS(max_range, criteria_range1, criteria1, [criteria_range2, criteria2, ...])
 
-Example:
+**Example:**
 Determine the maximum salary among employees in the South region.
 
 =MAXIFS($F$2:$F$201,$I$2:$I$201,"South")
