@@ -2,10 +2,14 @@ This document provides a brief overview of various Excel functions and features 
 
 Excel Function and Features
 1. IF Function
+
 Description:
+
 The IF function checks a condition and returns one value if the condition is true and another value if it is false.
+
 Syntax:
 =IF(logical_test, value_if_true, value_if_false)
+
 Example:
 To determine if employees are earning above or below $50,000. Use the IF function to display "Above" or "Below". 
 
@@ -14,10 +18,14 @@ To determine if employees are earning above or below $50,000. Use the IF functio
 Where F2 is the cell containing the employee's salary.
 ________________________________________
 2. IFS Function
+
 Description:
+
 The IFS function checks multiple conditions and returns a value corresponding to the first true condition.
+
 Syntax:
 =IFS(condition1, value1, condition2, value2, ...)
+
 Example:
 Assign a performance rating based on the number of project hours: "Excellent" for 50 or more hours, "Good" for 40-49 hours, "Average" for 30-39 hours, and "Poor" for below 30 hours.
 
@@ -26,13 +34,17 @@ Assign a performance rating based on the number of project hours: "Excellent" fo
 Where J2 is the cell containing the number of project hours.
 ________________________________________
 3. AND Function
+
 Description:
+
 The AND function checks if all conditions are true.
+
 Syntax:
 =AND(condition1, condition2, ...)
+
 Example:
-Check if employees from the HR department and North region have sales above $15,000. 
-Excel
+Check if employees from the HR department and North region have sales above $15,000.
+
 =AND(E2="HR", I2="North", H2>15000)
 Where E2 is the department, I2 is the region, and H2 is the sales amount.
 ________________________________________
