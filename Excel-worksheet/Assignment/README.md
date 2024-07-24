@@ -5,7 +5,6 @@ Excel Function and Features
 **1. IF Function**
 
 **Description:**
-
 The IF function checks a condition and returns one value if the condition is true and another value if it is false.
 
 **Syntax:**
@@ -21,7 +20,6 @@ ________________________________________
 **2. IFS Function**
 
 **Description:**
-
 The IFS function checks multiple conditions and returns a value corresponding to the first true condition.
 
 **Syntax:**
@@ -37,7 +35,6 @@ ________________________________________
 **3. AND Function**
 
 **Description:**
-
 The AND function checks if all conditions are true.
 
 **Syntax:**
@@ -270,7 +267,7 @@ Create a pivot table to summarize average sales by region and department.
 3.	Drag the "Region" and "Department" fields to the Rows area.
 4.	Drag the "Sales" field to the Values area and set it to calculate the average.
 
- 
+![Pivot table](https://github.com/user-attachments/assets/4db391ef-d995-45b0-85a9-c31fe2a6afb7) 
 ________________________________________
 **19. Data Validation**
     
@@ -294,3 +291,4 @@ Create a bar chart to visualize the total sales by department.
 2.	Go to the "Insert" tab and choose "Bar Chart" from the Chart options.
 3.	Customizing the chart as needed.
  
+![Bar chart](https://github.com/user-attachments/assets/e99f0fdb-356d-4464-a744-f3cca76b3c29)
