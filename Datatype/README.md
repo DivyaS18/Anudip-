@@ -1,6 +1,6 @@
 This folder contains different collection datatypes of python and operations performed on it:
 
-**Tuple in Python**
+**1 Tuple in Python**
 
 A tuple is a data type in Python that is used to store multiple items in a single variable. It is ordered, immutable, and allows duplicate elements.
 
@@ -15,7 +15,7 @@ A tuple is a data type in Python that is used to store multiple items in a singl
 **List of Operations That Can Be Performed on Tuples:**
 Creating Tuples, Accessing Elements, Slicing, Concatenation, Repetition, Iteration, Length, Count, Indexing, Reversing, Converting
 
-**List in Python**
+**2 List in Python**
 
 A list is a mutable, ordered collection of items. Lists can store elements of different data types and are defined using square brackets [].
 
@@ -32,7 +32,7 @@ A list is a mutable, ordered collection of items. Lists can store elements of di
 **List of Operations That Can Be Performed on Lists:**
 Creation, Traversal, Insertion, Deletion, Sorting, Searching, Length, Concatenation, Updation, Slicing, Indexing, Converting etc..
 
-**Dictionary in Python**
+**3 Dictionary in Python**
 
 A dictionary is an unordered, mutable collection of key-value pairs. Each key in a dictionary is unique and is used to access the corresponding value.
 
