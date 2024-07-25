@@ -42,10 +42,15 @@ The intended audience for this dashboard includes business analysts, management,
 
 ### Visual Descriptions
 - **Total Count Table**: Shows the number of account numbers for each country in a tabular format.
+  
   ![1](https://github.com/user-attachments/assets/98fd6bd3-0e44-4b7e-813e-d9d003120809)
+  
 - **Account Holder Names Table**: Displays the account holder names grouped by country.
+  
   ![2](https://github.com/user-attachments/assets/bc22443f-83f0-478e-9fde-5a110cf727b1)
+  
 - **Country Slicer**: Allows users to filter the data by country.
+  
   ![3](https://github.com/user-attachments/assets/23f4c05f-b648-480b-90b3-904b37da82f4)
 
 
@@ -53,6 +58,7 @@ The intended audience for this dashboard includes business analysts, management,
 - **Country Slicer**: Enables filtering of data to show specific countries (e.g., India, Brazil, Greece, France).
 
 **###Output DASHBOARD**
+
 ![Task 1(part 1)](https://github.com/user-attachments/assets/adc3ddd8-559c-4e55-b297-e125c819e260)
 
 # Power BI Dashboard Documentation TASK 1(PART 2)
@@ -101,17 +107,25 @@ The intended audience for this dashboard includes business analysts, management,
 
 ### Visual Descriptions
 - **Country-wise Industry and Profitability Margin Table**: Shows the average profitability margin by industry for each country.
+  
   ![task 1 part 2 (2)](https://github.com/user-attachments/assets/5104f02b-890f-416a-a348-8d5e6d0aa37c)
 
 - **Industry-wise Profitability Percentage Pie Chart**: Displays the profitability percentage for each industry.
+  
   ![task 1 part 2 (3)](https://github.com/user-attachments/assets/4fa4b1de-96fc-4a1c-9265-3c7aecc4973e)
+  
 - **Industry-wise Profitability Trends Line & Stacked Column Chart**: Shows the trends in profitability for different industries over time.
+  
   ![task 1 part 2 (4)](https://github.com/user-attachments/assets/5394895b-f86c-4545-8f0c-45090c0d4408)
+  
 - **Country-wise Industry Market Values Map Chart**: Visualizes the market values and industry presence across different countries.
+  
   ![task 1 part 2 (5)](https://github.com/user-attachments/assets/9eed4497-dac9-4cf4-8a06-5e5e58993c45)
 
 ### Filters and Slicers
+
 - **Country Filter**: Allows users to filter the data based on selected countries for all visualizations.
+  
   ![task 1 part 2 (2a)](https://github.com/user-attachments/assets/4ec52dd6-b4c3-45b0-92a6-e98751b1dde4)
 
 **###Output DASHBOARD**
