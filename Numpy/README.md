@@ -9,3 +9,25 @@ NumPy, short for Numerical Python, is a fundamental library for numerical comput
 **numpy.ones()**: Create an array filled with ones.
 
 **numpy.eye()**: Create an identity matrix.
+
+**Array Operations**
+
+**numpy.reshape()**: Change the shape of an array without changing its data.
+
+**Random Number Generation**
+
+**numpy.random.rand()**: Generate an array of random numbers from a uniform distribution.
+
+**numpy.random.randint()**: Generate random integers.
+
+**Other Functions**
+
+Here's a list of common NumPy functions for summation, minimum, maximum, and cumulative operations:
+
+1. **np.sum()**
+2. **np.min()**
+3. **np.max()**
+4. **np.cumsum()**
+5. **np.argmin()**
+6. **np.argmax()**
+7. **np.unique()**
