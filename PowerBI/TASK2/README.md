@@ -62,10 +62,6 @@ The intended audience for this dashboard includes bank analysts, management, and
 - **Region-wise Customer Bank Balances Bar Chart**: Represents the total bank balances for customers in each region.
 - **Region-wise Monthly Balance Trends Line & Stacked Column Chart**: Shows the trends in monthly balance availability across different regions.
 
-### Filters and Slicers
-- **Region Filter**: Allows users to filter the data based on selected regions for all visualizations.
-
-
 # Power BI Dashboard Documentation TASK 2 PART 2
 
 ## 1. Introduction
@@ -97,20 +93,16 @@ The intended audience for this dashboard includes sales managers, business analy
 - **Tables**: The primary table used is the "Sales Data" table.
 - **Calculated Columns/Measures**:
   - **Profit Percentage**: (Total Profit / Total Sales) * 100
-  - **Commission**: Based on commission rates applied to sales representatives.
 
 ## 4. Visualizations
 
 ### Visual Types
 1. **Table**: For overall profit percentage and commission for sales against each sales representative.
-2. **Line & Bar Chart**: For sales representative-wise total number of work shifts (monthly basis) and work shifts (day & night) trends.
+2. **Table**: For sales representative-wise total number of work shifts (monthly basis) and work shifts (day & night) trends.
 
 ### Visual Descriptions
 - **Overall Profit Percentage and Commission Table**: Displays the profit percentage and commission for each sales representative.
-- **Total Number of Work Shifts Line & Bar Chart**: Shows the total number of work shifts per month for each sales representative, along with day and night shift trends.
-
-### Filters and Slicers
-- **Sales Representative Filter**: Allows users to filter the data based on selected sales representatives.
+- **Total Number of Work Shifts**: Shows the total number of work shifts per month for each sales representative, along with day and night shift trends.
 
 ## 5. Action Items Based on Analysis
 
