@@ -56,11 +56,31 @@ The intended audience for this dashboard includes bank analysts, management, and
 5. **Line & Stacked Column Chart**: For region-wise monthly balance availability trends.
 
 ### Visual Descriptions
+
 - **Region-wise Number of Customers Table**: Shows the number of customers in each region.
+
+  ![S5](https://github.com/user-attachments/assets/67073ced-f5f4-464f-835f-f7669be027a1)
+
+
 - **Region-wise Number of Male and Female Customers Table**: Displays the gender distribution of customers by region.
+
+  ![SD4](https://github.com/user-attachments/assets/cb43316a-f0cf-453c-b2cd-643108a2159c)
+
+
 - **Customer Presence Map Chart**: Visualizes the global distribution of customers based on their region.
+
+  ![SD(1)](https://github.com/user-attachments/assets/03d3c804-cf52-48d4-a9ac-65403f2495a8)
+
+
 - **Region-wise Customer Bank Balances Bar Chart**: Represents the total bank balances for customers in each region.
+
+![SD5](https://github.com/user-attachments/assets/fb13724a-265a-42eb-a098-67570c4214b7)
+
+  
 - **Region-wise Monthly Balance Trends Line & Stacked Column Chart**: Shows the trends in monthly balance availability across different regions.
+
+ ![SD6](https://github.com/user-attachments/assets/bf05ce37-c78c-46ce-a79e-f1c7e9589be3)
+ 
 
 # Power BI Dashboard Documentation TASK 2 PART 2
 
@@ -101,8 +121,17 @@ The intended audience for this dashboard includes sales managers, business analy
 2. **Table**: For sales representative-wise total number of work shifts (monthly basis) and work shifts (day & night) trends.
 
 ### Visual Descriptions
+
 - **Overall Profit Percentage and Commission Table**: Displays the profit percentage and commission for each sales representative.
+
+  ![SD(2)](https://github.com/user-attachments/assets/1b289a7b-32ea-4ab6-b5cc-48826c4e05c5)
+
+
 - **Total Number of Work Shifts**: Shows the total number of work shifts per month for each sales representative, along with day and night shift trends.
+
+  
+![SD3](https://github.com/user-attachments/assets/e4292620-385e-4df7-93ba-d846705f9c17)
+
 
 ## 5. Action Items Based on Analysis
 
@@ -114,4 +143,10 @@ The intended audience for this dashboard includes sales managers, business analy
 
 ### Additional Business Impact
 - **Sales Trends**: 
+
+
+### Output Dashboard
+
+![Sales Data 2](https://github.com/user-attachments/assets/6e0f18e9-833b-40ff-9abe-64531d630001)
+
 
