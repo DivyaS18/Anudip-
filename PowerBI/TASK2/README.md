@@ -112,7 +112,7 @@ The intended audience for this dashboard includes sales managers, business analy
 ### Filters and Slicers
 - **Sales Representative Filter**: Allows users to filter the data based on selected sales representatives.
 
-## 10. Action Items Based on Analysis
+## 5. Action Items Based on Analysis
 
 ### Areas for Further Improvement
 - **Product Sales**: 
