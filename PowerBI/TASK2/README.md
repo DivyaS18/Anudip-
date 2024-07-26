@@ -74,12 +74,12 @@ The intended audience for this dashboard includes bank analysts, management, and
 
 - **Region-wise Customer Bank Balances Bar Chart**: Represents the total bank balances for customers in each region.
 
-![SD5](https://github.com/user-attachments/assets/fb13724a-265a-42eb-a098-67570c4214b7)
+  ![SD5](https://github.com/user-attachments/assets/fb13724a-265a-42eb-a098-67570c4214b7)
 
   
 - **Region-wise Monthly Balance Trends Line & Stacked Column Chart**: Shows the trends in monthly balance availability across different regions.
 
- ![SD6](https://github.com/user-attachments/assets/bf05ce37-c78c-46ce-a79e-f1c7e9589be3)
+   ![SD6](https://github.com/user-attachments/assets/bf05ce37-c78c-46ce-a79e-f1c7e9589be3)
  
 
 # Power BI Dashboard Documentation TASK 2 PART 2
@@ -130,7 +130,7 @@ The intended audience for this dashboard includes sales managers, business analy
 - **Total Number of Work Shifts**: Shows the total number of work shifts per month for each sales representative, along with day and night shift trends.
 
   
-![SD3](https://github.com/user-attachments/assets/e4292620-385e-4df7-93ba-d846705f9c17)
+  ![SD3](https://github.com/user-attachments/assets/e4292620-385e-4df7-93ba-d846705f9c17)
 
 
 ## 5. Action Items Based on Analysis
