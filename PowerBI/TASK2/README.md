@@ -139,7 +139,7 @@ The intended audience for this dashboard includes sales managers, business analy
 - **Product Sales**: 
 
 ### Work Shift Analysis
-- **Shift Preference**: 
+- **Shift Preference**: The no.of shifts are equal for the both the represenatative. Ben night shift is more that is 27 than day shift which is 17, Jacob's day shift is more that is 27 than night shift which is 17.
 
 ### Additional Business Impact
 - **Sales Trends**: 
