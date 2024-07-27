@@ -147,6 +147,6 @@ The intended audience for this dashboard includes sales managers, business analy
 
 ### Output Dashboard
 
-![Sales Data 2](https://github.com/user-attachments/assets/6e0f18e9-833b-40ff-9abe-64531d630001)
+![Sales Data](https://github.com/user-attachments/assets/cbf11754-2989-4e97-b9f7-74ae80f20de2)
 
 
