@@ -57,7 +57,7 @@ The intended audience for this dashboard includes business analysts, management,
 ### Filters and Slicers
 - **Country Slicer**: Enables filtering of data to show specific countries (e.g., India, Brazil, Greece, France).
 
-**###Output DASHBOARD**
+**### Output DASHBOARD**
 
 ![Task 1(part 1)](https://github.com/user-attachments/assets/adc3ddd8-559c-4e55-b297-e125c819e260)
 
