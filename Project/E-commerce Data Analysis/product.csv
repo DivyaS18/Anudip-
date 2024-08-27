@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,original_price,selling_price,stock
+P-00001,Much World,Electronics,Fiction,188.52,152.87,10
+P-00002,Hot Through,Home Appliances,Non-Fiction,477.85,415.39,33
+P-00003,Check Understand,Books,Kitchen,75.68,56.14,52
+P-00004,While Decision,Electronics,Fiction,378.82,237.8,23
+P-00005,Available Environment,Furniture,Laptops,688.42,442.06,48
+P-00006,Effort Number,Books,Mobile,870.97,625.05,25
+P-00007,Allow Same,Home Appliances,Fiction,500.97,375.38,33
+P-00008,Democratic Research,Clothing,Fiction,554.13,346.58,92
+P-00009,Four See,Books,Women,245.69,132.74,65
+P-00010,From Would,Books,Mobile,168.39,132.7,22
+P-00011,Again Follow,Electronics,Men,32.5,25.34,61
+P-00012,One Phone,Books,Laptops,731.26,409.01,74
+P-00013,Strong Own,Furniture,Women,871.0,728.52,55
+P-00014,Knowledge Forward,Clothing,Living Room,487.73,430.16,99
+P-00015,Statement Position,Home Appliances,Women,817.95,422.01,68
+P-00016,Low Us,Electronics,Laptops,301.21,207.71,67
+P-00017,Growth Various,Furniture,Laptops,128.19,72.65,58
+P-00018,Stop Now,Furniture,Men,535.44,296.16,39
+P-00019,Significant Article,Books,Laptops,570.11,448.34,93
+P-00020,Have Establish,Books,Laptops,144.03,102.08,59
+P-00021,Yourself Real,Clothing,Non-Fiction,471.14,259.12,85
+P-00022,Work Room,Home Appliances,Men,383.15,276.63,44
+P-00023,Push Dinner,Home Appliances,Non-Fiction,649.53,421.22,48
+P-00024,Oil Audience,Furniture,Mobile,361.61,205.27,54
+P-00025,Explain Believe,Home Appliances,Men,610.86,391.24,89
+P-00026,Book Stock,Clothing,Non-Fiction,798.43,409.16,45
+P-00027,Structure Grow,Clothing,Living Room,990.19,529.3,48
+P-00028,Use Language,Home Appliances,Women,601.1,307.03,74
+P-00029,Two North,Books,Living Room,73.91,63.99,97
+P-00030,Among College,Furniture,Mobile,746.52,493.44,14
+P-00031,Minute Citizen,Clothing,Mobile,36.0,20.16,18
+P-00032,Second Community,Furniture,Mobile,116.08,64.64,55
+P-00033,Suddenly Investment,Electronics,Women,110.9,80.53,95
+P-00034,Be Effort,Clothing,Women,578.92,503.37,100
+P-00035,Role Remember,Books,Mobile,59.92,45.61,25
+P-00036,Front Spend,Books,Fiction,974.35,809.88,27
+P-00037,Accept Fire,Home Appliances,Mobile,261.81,180.29,81
+P-00038,Give Suffer,Electronics,Fiction,816.45,620.18,62
+P-00039,Remain Record,Books,Mobile,508.98,272.39,13
+P-00040,Nature Consumer,Books,Living Room,173.49,139.4,90
+P-00041,Skill Expert,Clothing,Laptops,851.32,492.06,29
+P-00042,Little None,Electronics,Living Room,992.36,500.57,10
+P-00043,Reveal Within,Books,Non-Fiction,751.87,562.75,90
+P-00044,Understand Yourself,Home Appliances,Men,618.66,536.32,16
+P-00045,Show Others,Home Appliances,Women,436.57,391.27,66
+P-00046,From Career,Electronics,Fiction,667.51,403.13,17
+P-00047,Pm Girl,Home Appliances,Mobile,712.83,422.38,88
+P-00048,Item Hear,Home Appliances,Living Room,369.66,263.5,22
+P-00049,Friend Test,Home Appliances,Laptops,861.06,619.98,49
+P-00050,Really Cut,Clothing,Living Room,227.17,191.5,71
+P-00051,Ago Front,Electronics,Mobile,854.93,740.89,97
+P-00052,Them Owner,Furniture,Living Room,453.4,315.51,87
+P-00053,Strategy Actually,Home Appliances,Living Room,835.03,737.15,68
+P-00054,Dinner Husband,Clothing,Living Room,525.96,378.39,12
+P-00055,Lead Room,Electronics,Living Room,986.95,875.13,66
+P-00056,Indeed Time,Clothing,Non-Fiction,664.02,417.39,51
+P-00057,Plan Fight,Clothing,Living Room,701.31,540.65,80
+P-00058,Without Rather,Furniture,Fiction,552.66,310.53,86
+P-00059,Technology Series,Books,Fiction,510.52,300.82,98
+P-00060,Full Bag,Electronics,Laptops,341.89,248.82,17
+P-00061,Animal Opportunity,Furniture,Living Room,535.96,398.9,93
+P-00062,Write Sister,Clothing,Women,547.35,276.92,49
+P-00063,Oil Change,Electronics,Mobile,150.49,106.24,96
+P-00064,Product Off,Clothing,Fiction,748.86,439.02,79
+P-00065,Democratic Huge,Furniture,Women,849.25,450.73,74
+P-00066,Feeling Fire,Electronics,Men,933.06,780.96,26
+P-00067,Budget And,Electronics,Non-Fiction,505.75,279.74,14
+P-00068,Debate Design,Electronics,Living Room,906.13,807.94,97
+P-00069,Agency Including,Furniture,Women,880.58,487.15,29
+P-00070,Into Oil,Home Appliances,Men,218.08,136.47,16
+P-00071,Teacher Thought,Books,Men,451.86,295.94,37
+P-00072,Really Method,Books,Living Room,21.6,11.14,13
+P-00073,Growth Foreign,Clothing,Kitchen,303.11,221.3,56
+P-00074,Per Stay,Electronics,Fiction,538.2,355.86,98
+P-00075,Commercial Page,Books,Women,153.95,127.96,24
+P-00076,Bank Attorney,Furniture,Women,883.38,575.2,21
+P-00077,His Movie,Furniture,Non-Fiction,254.52,225.22,27
+P-00078,When Specific,Books,Non-Fiction,958.03,759.9,47
+P-00079,Worker Just,Books,Mobile,105.47,59.15,70
+P-00080,Similar Both,Clothing,Non-Fiction,494.31,259.96,69
+P-00081,Top Them,Books,Kitchen,68.14,51.75,16
+P-00082,Week Get,Home Appliances,Kitchen,576.34,347.74,29
+P-00083,Lawyer Science,Home Appliances,Living Room,858.11,442.68,12
+P-00084,Listen Look,Home Appliances,Mobile,178.0,96.73,48
+P-00085,Yet Thank,Electronics,Laptops,662.98,354.1,14
+P-00086,Scientist Let,Electronics,Women,119.5,97.98,78
+P-00087,Than People,Books,Non-Fiction,366.52,206.11,91
+P-00088,Least Husband,Clothing,Mobile,277.42,174.28,19
+P-00089,Number Mouth,Home Appliances,Non-Fiction,257.76,168.3,22
+P-00090,They Key,Clothing,Non-Fiction,120.9,76.2,66
+P-00091,Campaign Lead,Books,Living Room,346.77,307.07,38
+P-00092,Professional Probably,Clothing,Non-Fiction,558.34,363.32,77
+P-00093,Form Share,Electronics,Fiction,836.24,734.41,19
+P-00094,Everybody Without,Clothing,Living Room,895.29,469.85,61
+P-00095,Skin About,Books,Non-Fiction,228.11,137.47,81
+P-00096,Professional Safe,Home Appliances,Living Room,272.14,148.97,57
+P-00097,Stage Form,Home Appliances,Living Room,323.87,260.41,68
+P-00098,Cup Statement,Clothing,Non-Fiction,805.74,494.64,31
+P-00099,Education Letter,Clothing,Kitchen,784.65,622.72,59
+P-00100,Language Could,Books,Mobile,207.46,186.5,55
+P-00101,Not General,Books,Kitchen,866.7,545.78,77
+P-00102,Step Through,Electronics,Laptops,34.53,21.9,45
+P-00103,Just Training,Electronics,Men,422.32,236.27,82
+P-00104,Thing Lawyer,Clothing,Laptops,805.09,619.33,56
+P-00105,Three Feeling,Home Appliances,Non-Fiction,953.14,782.51,54
+P-00106,Business Away,Electronics,Living Room,47.19,26.65,99
+P-00107,Goal Young,Electronics,Men,509.83,346.84,30
+P-00108,Former Street,Electronics,Fiction,655.14,403.71,34
+P-00109,List Movement,Clothing,Fiction,22.85,16.57,62
+P-00110,Child Relate,Books,Fiction,323.08,167.86,96
+P-00111,Together Reality,Home Appliances,Women,474.86,255.82,71
+P-00112,Keep Opportunity,Home Appliances,Fiction,44.48,31.74,38
+P-00113,May Several,Clothing,Laptops,824.52,570.24,87
+P-00114,Here Million,Home Appliances,Laptops,658.31,486.6,46
+P-00115,Build Huge,Clothing,Kitchen,923.27,672.76,21
+P-00116,Film Seem,Home Appliances,Men,158.01,86.36,85
+P-00117,These Official,Furniture,Men,974.38,548.86,59
+P-00118,Security These,Furniture,Fiction,98.21,75.99,76
+P-00119,Your Money,Home Appliances,Women,196.98,135.04,85
+P-00120,Measure Sometimes,Clothing,Fiction,56.61,41.85,90
+P-00121,Model Significant,Electronics,Living Room,995.31,751.96,86
+P-00122,Commercial Rise,Home Appliances,Kitchen,346.37,296.12,15
+P-00123,Down Image,Clothing,Fiction,283.82,217.99,86
+P-00124,Go More,Furniture,Laptops,315.16,243.26,32
+P-00125,Whole Place,Books,Fiction,574.43,404.1,84
+P-00126,Mean Near,Clothing,Men,756.46,385.37,49
+P-00127,Drive Lose,Books,Non-Fiction,101.3,88.57,16
+P-00128,Same Baby,Furniture,Laptops,554.17,341.46,100
+P-00129,Thank Less,Books,Fiction,683.8,430.12,47
+P-00130,Check Parent,Furniture,Mobile,978.94,503.38,48
+P-00131,Traditional Talk,Home Appliances,Men,508.79,410.26,60
+P-00132,Special South,Electronics,Women,493.76,396.78,73
+P-00133,Soldier Anyone,Home Appliances,Living Room,654.58,403.4,81
+P-00134,Sort Material,Furniture,Men,203.64,114.64,88
+P-00135,Paper Quality,Furniture,Fiction,535.75,273.04,12
+P-00136,Choice Data,Electronics,Non-Fiction,948.68,787.49,62
+P-00137,Out Begin,Books,Non-Fiction,836.54,604.98,13
+P-00138,Dark Professional,Clothing,Living Room,249.06,193.53,97
+P-00139,Of Early,Books,Non-Fiction,518.45,318.97,100
+P-00140,Camera Task,Books,Women,45.6,34.0,18
+P-00141,Officer Send,Clothing,Non-Fiction,222.26,137.77,97
+P-00142,Huge Cup,Home Appliances,Mobile,105.37,89.87,50
+P-00143,Threat Responsibility,Home Appliances,Women,263.87,175.1,31
+P-00144,Sign Challenge,Home Appliances,Living Room,909.85,695.26,86
+P-00145,Speak Language,Books,Non-Fiction,873.6,650.46,11
+P-00146,Left Friend,Electronics,Non-Fiction,953.94,514.35,10
+P-00147,Center Worry,Clothing,Women,102.63,80.22,42
+P-00148,Financial Goal,Home Appliances,Fiction,612.33,541.33,33
+P-00149,Attention Clear,Clothing,Living Room,758.03,630.11,94
+P-00150,Full Might,Furniture,Mobile,529.35,319.4,72
+P-00151,Serve Machine,Furniture,Men,801.07,550.4,54
+P-00152,Sell Like,Home Appliances,Kitchen,385.48,261.71,69
+P-00153,Ago Close,Clothing,Living Room,434.57,366.83,83
+P-00154,Month Cover,Home Appliances,Fiction,436.7,309.84,55
+P-00155,Ground Why,Clothing,Mobile,73.7,55.56,52
+P-00156,Remember Dog,Electronics,Women,140.16,76.24,48
+P-00157,Long Direction,Books,Men,428.75,355.2,31
+P-00158,Already Look,Books,Women,726.89,594.33,85
+P-00159,Represent Reach,Home Appliances,Non-Fiction,763.24,638.07,10
+P-00160,Successful Day,Furniture,Non-Fiction,762.22,447.91,49
+P-00161,Reveal None,Furniture,Living Room,585.05,308.61,69
+P-00162,Yeah Different,Clothing,Fiction,44.45,30.77,61
+P-00163,Else Control,Books,Kitchen,488.64,269.51,93
+P-00164,Front Determine,Books,Living Room,148.54,82.6,36
+P-00165,Hair Dinner,Books,Mobile,662.65,480.57,27
+P-00166,Business Professional,Electronics,Men,18.19,13.71,52
+P-00167,Bill Follow,Electronics,Mobile,366.02,233.83,13
+P-00168,Father Cold,Electronics,Men,804.19,692.82,44
+P-00169,Store Different,Electronics,Mobile,451.94,350.45,33
+P-00170,Certainly Couple,Home Appliances,Laptops,57.72,29.23,15
+P-00171,Analysis Treatment,Furniture,Men,170.44,100.22,12
+P-00172,Item Feeling,Home Appliances,Laptops,953.48,734.67,49
+P-00173,Citizen Office,Home Appliances,Fiction,569.49,334.69,90
+P-00174,Against Physical,Electronics,Men,899.26,646.87,59
+P-00175,Purpose Age,Furniture,Kitchen,251.79,133.25,75
+P-00176,Woman Girl,Electronics,Women,567.53,493.72,79
+P-00177,Pattern Mean,Electronics,Fiction,884.39,501.34,70
+P-00178,Without Nothing,Furniture,Laptops,575.48,386.99,44
+P-00179,Beyond Easy,Clothing,Women,80.75,52.93,96
+P-00180,Nothing Involve,Home Appliances,Women,650.28,373.05,28
+P-00181,Soldier Could,Books,Laptops,95.46,83.36,80
+P-00182,Support Early,Clothing,Women,875.06,759.82,72
+P-00183,Make Language,Furniture,Men,526.3,273.45,73
+P-00184,During Peace,Books,Fiction,326.22,179.96,16
+P-00185,Million Artist,Clothing,Living Room,805.76,696.74,61
+P-00186,School Since,Home Appliances,Living Room,891.9,517.71,49
+P-00187,Training Throw,Furniture,Mobile,262.45,133.62,26
+P-00188,Store Discuss,Clothing,Men,413.88,365.07,82
+P-00189,All Player,Furniture,Mobile,108.52,73.68,94
+P-00190,Upon Before,Books,Living Room,239.26,213.56,78
+P-00191,Medical Yet,Clothing,Mobile,862.48,655.85,46
+P-00192,Hundred Everybody,Books,Mobile,952.64,856.68,92
+P-00193,Goal Pm,Clothing,Women,21.73,13.73,51
+P-00194,Concern Surface,Home Appliances,Women,569.08,400.1,30
+P-00195,Apply Media,Clothing,Mobile,613.36,435.23,15
+P-00196,Treat Evidence,Clothing,Women,480.42,302.22,89
+P-00197,Throw Material,Furniture,Laptops,192.81,120.03,15
+P-00198,Blood Establish,Clothing,Non-Fiction,984.31,715.44,12
+P-00199,Often Day,Electronics,Non-Fiction,739.22,614.65,86
+P-00200,Surface Difference,Books,Living Room,889.17,522.61,44
+P-00201,Two Early,Clothing,Men,930.76,496.13,82
+P-00202,Since Technology,Books,Kitchen,849.32,737.0,38
+P-00203,Pull Buy,Electronics,Living Room,106.69,54.14,57
+P-00204,Base Collection,Books,Mobile,164.88,102.09,27
+P-00205,Commercial Politics,Clothing,Mobile,212.09,160.45,60
+P-00206,Indicate Election,Electronics,Non-Fiction,250.19,142.72,21
+P-00207,Near Stuff,Home Appliances,Living Room,536.03,456.02,43
+P-00208,Artist Check,Books,Mobile,267.9,138.89,99
+P-00209,Fly Every,Home Appliances,Fiction,738.03,624.7,87
+P-00210,Above Site,Furniture,Women,20.67,16.32,11
+P-00211,Grow Hope,Electronics,Fiction,140.07,120.11,90
+P-00212,Point Recognize,Clothing,Non-Fiction,327.5,233.3,28
+P-00213,Agreement Word,Electronics,Men,384.48,345.26,68
+P-00214,Though Power,Books,Kitchen,145.53,126.13,44
+P-00215,Quite But,Home Appliances,Living Room,352.94,283.72,29
+P-00216,Western High,Clothing,Mobile,544.34,291.86,39
+P-00217,Truth You,Clothing,Non-Fiction,473.05,349.41,90
+P-00218,Spend Visit,Electronics,Kitchen,372.07,280.97,74
+P-00219,Wear Energy,Books,Men,349.46,277.17,42
+P-00220,Prove Question,Clothing,Living Room,119.74,105.64,55
+P-00221,Certain Common,Clothing,Living Room,878.96,636.19,72
+P-00222,Today Cold,Electronics,Fiction,624.36,490.12,43
+P-00223,Lot Every,Furniture,Non-Fiction,463.32,238.32,87
+P-00224,Keep Perform,Furniture,Fiction,142.88,104.08,19
+P-00225,My Effect,Furniture,Women,447.27,233.88,55
+P-00226,Window Professor,Electronics,Non-Fiction,662.04,482.26,93
+P-00227,Partner Democratic,Home Appliances,Women,418.01,326.91,25
+P-00228,Week Never,Home Appliances,Laptops,420.82,308.75,11
+P-00229,Street Land,Furniture,Kitchen,880.89,495.7,47
+P-00230,Condition Order,Electronics,Men,385.51,259.5,64
+P-00231,Particular Again,Clothing,Mobile,608.69,326.55,41
+P-00232,Finish Opportunity,Furniture,Women,207.29,155.85,16
+P-00233,Want Step,Furniture,Kitchen,436.66,353.88,37
+P-00234,Pretty Step,Furniture,Men,238.78,181.77,37
+P-00235,Follow Parent,Furniture,Men,738.65,624.88,64
+P-00236,Team Pm,Furniture,Mobile,305.0,176.88,23
+P-00237,Claim Explain,Clothing,Fiction,235.28,185.44,66
+P-00238,Home Ten,Furniture,Mobile,604.85,406.69,44
+P-00239,Plan Individual,Electronics,Laptops,700.95,390.14,39
+P-00240,Section Term,Electronics,Non-Fiction,672.83,516.13,19
+P-00241,Close Thing,Furniture,Women,724.05,522.84,38
+P-00242,Another Clearly,Clothing,Women,498.22,274.7,85
+P-00243,Study Pass,Furniture,Laptops,248.27,165.1,45
+P-00244,Five No,Clothing,Kitchen,97.93,62.35,83
+P-00245,Plant Adult,Furniture,Laptops,552.78,358.68,42
+P-00246,Vote Evidence,Furniture,Laptops,584.03,344.81,43
+P-00247,Company Market,Electronics,Women,155.1,111.8,67
+P-00248,Pretty Assume,Home Appliances,Mobile,744.53,540.1,22
+P-00249,Southern Perhaps,Home Appliances,Men,580.83,475.81,48
+P-00250,Help Thought,Home Appliances,Laptops,446.3,394.33,31
+P-00251,Scene Pm,Electronics,Living Room,102.86,78.07,74
+P-00252,Serious Begin,Furniture,Fiction,346.88,248.27,32
+P-00253,During Their,Home Appliances,Mobile,967.68,721.5,64
+P-00254,Government Share,Electronics,Fiction,777.18,400.52,81
+P-00255,Heavy Scene,Home Appliances,Kitchen,697.06,477.63,95
+P-00256,International Instead,Home Appliances,Men,57.31,36.3,29
+P-00257,Technology Rise,Clothing,Women,837.2,518.92,98
+P-00258,Provide Fund,Electronics,Fiction,147.45,127.07,32
+P-00259,Feel More,Home Appliances,Fiction,941.33,656.72,28
+P-00260,Interesting Nice,Books,Living Room,711.12,639.69,47
+P-00261,Us Many,Furniture,Fiction,176.29,136.73,95
+P-00262,Question Medical,Electronics,Fiction,235.28,125.83,100
+P-00263,Prevent Guess,Books,Fiction,909.61,611.04,65
+P-00264,Matter Instead,Books,Kitchen,300.84,233.78,10
+P-00265,Week Degree,Electronics,Non-Fiction,536.9,373.03,79
+P-00266,Group Couple,Books,Non-Fiction,127.92,101.97,13
+P-00267,Family Contain,Furniture,Kitchen,393.73,342.09,22
+P-00268,Eye Respond,Books,Kitchen,790.12,398.75,35
+P-00269,Table Reduce,Clothing,Mobile,33.13,25.79,34
+P-00270,Human Prove,Home Appliances,Laptops,500.86,375.98,51
+P-00271,Action Box,Electronics,Mobile,480.53,389.58,89
+P-00272,Similar Physical,Clothing,Non-Fiction,228.17,165.41,47
+P-00273,Everyone Worry,Furniture,Women,573.64,306.19,40
+P-00274,Seat Shoulder,Electronics,Kitchen,441.45,392.93,57
+P-00275,Quite Interview,Books,Non-Fiction,379.9,307.27,58
+P-00276,Forget Item,Clothing,Living Room,253.92,146.99,66
+P-00277,Teach Step,Books,Mobile,622.05,371.88,24
+P-00278,Window Save,Home Appliances,Women,425.27,225.63,43
+P-00279,Theory Despite,Home Appliances,Men,267.99,187.97,11
+P-00280,Box Central,Books,Kitchen,556.47,421.32,69
+P-00281,Room Third,Home Appliances,Laptops,841.73,497.58,100
+P-00282,Job Others,Furniture,Kitchen,608.54,503.73,20
+P-00283,Answer Despite,Electronics,Laptops,109.42,64.2,44
+P-00284,Market Whom,Books,Kitchen,630.86,384.65,43
+P-00285,Down Agree,Electronics,Men,134.71,69.45,30
+P-00286,Remain Consumer,Furniture,Mobile,968.09,654.25,49
+P-00287,Create Interesting,Home Appliances,Laptops,285.1,145.49,53
+P-00288,Writer Shake,Books,Men,648.59,430.51,97
+P-00289,College Involve,Clothing,Fiction,461.39,236.45,41
+P-00290,Leader World,Books,Women,496.21,381.95,35
+P-00291,Mr Leave,Books,Living Room,411.0,283.58,86
+P-00292,Decision Lawyer,Home Appliances,Fiction,258.62,232.49,37
+P-00293,Past Myself,Furniture,Men,233.22,207.3,16
+P-00294,Writer Case,Home Appliances,Living Room,448.42,256.1,81
+P-00295,Democrat Beyond,Clothing,Fiction,643.39,436.15,40
+P-00296,Across Painting,Clothing,Laptops,217.97,152.82,13
+P-00297,Science Parent,Furniture,Women,846.03,517.97,65
+P-00298,Central Network,Clothing,Laptops,993.88,676.98,55
+P-00299,Manage House,Clothing,Men,904.65,514.45,16
+P-00300,Resource Plan,Home Appliances,Kitchen,910.02,816.6,52
+P-00301,Career Onto,Furniture,Laptops,995.52,597.39,74
+P-00302,Address Them,Books,Men,789.84,686.99,20
+P-00303,Guy Company,Home Appliances,Fiction,573.6,314.05,65
+P-00304,Quickly During,Books,Non-Fiction,191.14,169.43,71
+P-00305,International Evening,Clothing,Non-Fiction,171.95,129.08,80
+P-00306,Ability Enter,Books,Laptops,369.38,280.99,74
+P-00307,Voice What,Books,Kitchen,46.46,25.09,35
+P-00308,Animal Husband,Books,Non-Fiction,624.5,432.36,22
+P-00309,Doctor Western,Clothing,Men,661.68,548.7,94
+P-00310,Quickly Reality,Clothing,Mobile,145.1,81.2,62
+P-00311,Early Among,Home Appliances,Laptops,730.19,414.97,85
+P-00312,Trip Capital,Clothing,Non-Fiction,847.83,642.45,35
+P-00313,He Loss,Furniture,Kitchen,621.13,328.25,11
+P-00314,Onto Former,Clothing,Living Room,854.34,565.63,76
+P-00315,Establish Tax,Electronics,Non-Fiction,518.31,355.91,71
+P-00316,Operation Tell,Clothing,Men,794.57,606.3,15
+P-00317,Result Think,Books,Women,49.43,28.18,20
+P-00318,Attention Than,Home Appliances,Fiction,625.68,364.81,23
+P-00319,Surface Catch,Furniture,Fiction,49.44,30.49,89
+P-00320,Partner Focus,Clothing,Kitchen,928.84,502.13,45
+P-00321,Support Quality,Clothing,Mobile,79.65,43.94,77
+P-00322,Mission Computer,Books,Mobile,753.92,535.49,14
+P-00323,Security Change,Furniture,Women,480.67,375.93,52
+P-00324,Everyone Hope,Clothing,Non-Fiction,122.11,62.61,65
+P-00325,Field Spring,Furniture,Women,515.51,326.38,78
+P-00326,Turn Next,Home Appliances,Living Room,835.38,556.78,89
+P-00327,Animal Large,Electronics,Living Room,948.56,848.16,97
+P-00328,Box Behind,Clothing,Mobile,100.58,87.5,53
+P-00329,Fill Option,Electronics,Kitchen,209.37,119.03,44
+P-00330,Question International,Electronics,Living Room,433.77,275.01,100
+P-00331,Any Better,Books,Mobile,219.14,109.82,75
+P-00332,Bring Likely,Clothing,Fiction,379.55,324.43,41
+P-00333,Image Democratic,Electronics,Women,316.96,285.09,36
+P-00334,Nothing Box,Electronics,Kitchen,32.69,20.55,81
+P-00335,Social Pressure,Clothing,Non-Fiction,283.83,220.2,84
+P-00336,Fear Admit,Home Appliances,Mobile,922.63,756.14,16
+P-00337,Open Account,Clothing,Women,436.51,346.31,14
+P-00338,Field Participant,Electronics,Kitchen,413.49,278.09,40
+P-00339,Standard National,Electronics,Non-Fiction,708.98,591.44,92
+P-00340,Official Along,Furniture,Mobile,723.81,440.23,75
+P-00341,Tax Home,Electronics,Men,317.26,214.66,75
+P-00342,Break Person,Home Appliances,Laptops,779.02,482.65,17
+P-00343,Up Care,Clothing,Women,619.4,547.83,61
+P-00344,Throughout Against,Books,Living Room,76.94,42.06,42
+P-00345,Nice Report,Clothing,Kitchen,668.64,591.18,24
+P-00346,People Actually,Clothing,Non-Fiction,235.8,120.11,81
+P-00347,Model Memory,Books,Non-Fiction,648.51,333.38,62
+P-00348,Class Nor,Books,Laptops,883.31,508.1,92
+P-00349,Always Fast,Home Appliances,Fiction,621.27,438.31,22
+P-00350,Day Growth,Furniture,Mobile,81.89,71.27,38
+P-00351,Sea Few,Clothing,Women,624.69,396.88,82
+P-00352,Degree Economy,Furniture,Men,120.86,97.0,98
+P-00353,Employee Police,Books,Living Room,253.0,204.77,64
+P-00354,Professor Success,Clothing,Laptops,18.22,15.67,57
+P-00355,Front Why,Furniture,Laptops,327.75,253.1,67
+P-00356,Recently Body,Electronics,Men,715.98,496.23,29
+P-00357,Conference Court,Home Appliances,Laptops,776.35,400.8,18
+P-00358,Central Economic,Clothing,Living Room,869.42,540.49,34
+P-00359,Past History,Home Appliances,Non-Fiction,973.98,810.08,14
+P-00360,Lawyer Data,Books,Kitchen,500.46,250.31,73
+P-00361,Small Soon,Furniture,Non-Fiction,84.16,43.96,45
+P-00362,Role School,Furniture,Fiction,47.82,34.82,91
+P-00363,Same Tough,Books,Fiction,983.45,552.17,23
+P-00364,Vote Stand,Books,Laptops,714.88,362.19,22
+P-00365,Number Begin,Home Appliances,Laptops,776.02,546.38,49
+P-00366,Stand Cause,Clothing,Non-Fiction,161.85,90.53,61
+P-00367,Environment Tell,Books,Men,739.95,636.41,66
+P-00368,Require Fact,Electronics,Women,131.9,80.35,62
+P-00369,Upon Range,Clothing,Non-Fiction,562.57,375.35,25
+P-00370,Partner Yet,Furniture,Men,861.03,633.85,16
+P-00371,From Yet,Furniture,Kitchen,217.47,155.36,86
+P-00372,Others Evidence,Electronics,Fiction,278.85,143.1,13
+P-00373,Yeah Store,Furniture,Living Room,355.77,262.52,66
+P-00374,Table Quality,Electronics,Mobile,532.99,305.02,65
+P-00375,Similar World,Books,Living Room,416.94,346.77,14
+P-00376,Total Everything,Electronics,Kitchen,48.19,32.46,91
+P-00377,Scientist Him,Books,Mobile,393.45,303.8,40
+P-00378,Care Action,Home Appliances,Fiction,945.07,489.09,92
+P-00379,Democratic Once,Electronics,Non-Fiction,861.58,693.21,60
+P-00380,Cut Figure,Furniture,Laptops,679.81,456.85,78
+P-00381,Police Get,Furniture,Laptops,812.12,726.45,59
+P-00382,Positive Ask,Books,Mobile,552.62,351.14,94
+P-00383,Clearly Assume,Furniture,Kitchen,976.3,864.55,71
+P-00384,Street Necessary,Furniture,Women,256.88,159.52,11
+P-00385,Raise Edge,Furniture,Men,356.79,215.92,92
+P-00386,Purpose Teacher,Clothing,Laptops,434.64,389.17,75
+P-00387,Large Her,Books,Men,133.4,80.81,84
+P-00388,Type Summer,Books,Fiction,275.84,170.35,98
+P-00389,Security Carry,Home Appliances,Men,956.24,727.79,68
+P-00390,Exist Figure,Electronics,Men,834.08,609.65,87
+P-00391,Wonder Call,Home Appliances,Men,682.64,512.08,54
+P-00392,Event Teacher,Furniture,Women,767.11,492.61,41
+P-00393,Down Enter,Clothing,Fiction,406.75,352.17,56
+P-00394,Beautiful Maybe,Books,Women,212.16,183.45,71
+P-00395,Give Modern,Electronics,Living Room,390.84,235.05,40
+P-00396,Address Sometimes,Furniture,Laptops,648.09,416.77,53
+P-00397,Character Next,Furniture,Laptops,389.97,195.63,30
+P-00398,Particularly Individual,Electronics,Living Room,777.95,408.69,90
+P-00399,Media Any,Clothing,Kitchen,492.82,406.5,100
+P-00400,Central Hundred,Furniture,Men,912.99,735.08,60
+P-00401,Way Citizen,Clothing,Fiction,938.03,475.27,57
+P-00402,Television Attorney,Furniture,Living Room,863.49,568.93,87
+P-00403,Area Politics,Home Appliances,Women,580.95,521.86,97
+P-00404,Would Heart,Books,Fiction,769.27,405.22,56
+P-00405,Audience Image,Furniture,Living Room,100.49,53.01,83
+P-00406,Method High,Electronics,Laptops,190.22,95.94,76
+P-00407,Four Sort,Home Appliances,Men,17.41,14.61,53
+P-00408,Them Common,Furniture,Kitchen,306.92,246.03,23
+P-00409,Act If,Home Appliances,Laptops,557.83,471.09,42
+P-00410,Particularly Sort,Furniture,Kitchen,661.98,558.31,33
+P-00411,Central Land,Furniture,Kitchen,770.68,507.02,95
+P-00412,Short Nearly,Furniture,Men,171.34,117.17,72
+P-00413,Interesting Go,Books,Women,326.26,199.68,62
+P-00414,Learn Every,Electronics,Non-Fiction,344.91,272.26,21
+P-00415,Partner Read,Home Appliances,Living Room,308.17,199.95,66
+P-00416,List Pattern,Electronics,Laptops,591.63,380.6,31
+P-00417,Force Save,Books,Fiction,475.51,300.15,17
+P-00418,Care A,Furniture,Non-Fiction,881.73,584.6,66
+P-00419,Speak Computer,Home Appliances,Women,561.12,470.5,63
+P-00420,Reveal Similar,Electronics,Mobile,46.03,33.14,95
+P-00421,Pull Child,Books,Living Room,891.29,742.43,28
+P-00422,Play Figure,Furniture,Women,658.76,493.98,88
+P-00423,Tell Radio,Home Appliances,Mobile,210.4,109.62,70
+P-00424,First Everything,Furniture,Fiction,827.31,528.99,78
+P-00425,Business Author,Electronics,Men,968.27,566.46,88
+P-00426,Particular Ten,Electronics,Non-Fiction,615.02,313.46,32
+P-00427,Sign Authority,Furniture,Living Room,424.07,355.74,89
+P-00428,Often Serve,Home Appliances,Mobile,178.8,135.14,89
+P-00429,Hot Soldier,Home Appliances,Men,239.83,131.19,51
+P-00430,Audience Affect,Clothing,Laptops,230.38,130.83,32
+P-00431,Nor Cultural,Books,Laptops,937.92,604.94,16
+P-00432,Their Answer,Home Appliances,Kitchen,565.19,344.13,46
+P-00433,Save Hour,Clothing,Non-Fiction,196.68,163.3,29
+P-00434,Picture Force,Electronics,Women,847.82,587.66,95
+P-00435,Couple Eight,Home Appliances,Men,551.28,473.96,87
+P-00436,Speak Should,Electronics,Living Room,647.08,326.59,45
+P-00437,Where Describe,Electronics,Laptops,73.74,51.51,48
+P-00438,Suddenly Industry,Home Appliances,Men,784.0,405.15,85
+P-00439,Identify Discuss,Books,Non-Fiction,117.46,96.06,95
+P-00440,Necessary Defense,Books,Non-Fiction,516.4,331.73,100
+P-00441,Father Thing,Home Appliances,Kitchen,774.33,463.94,52
+P-00442,Case Present,Clothing,Men,771.24,528.88,52
+P-00443,Of College,Books,Laptops,499.92,367.79,31
+P-00444,National Sometimes,Furniture,Mobile,250.24,193.31,62
+P-00445,Bar View,Furniture,Laptops,28.03,25.09,53
+P-00446,Include Bar,Electronics,Kitchen,328.85,170.96,47
+P-00447,A Hear,Furniture,Fiction,205.79,136.83,91
+P-00448,Bit Off,Electronics,Living Room,484.76,433.91,24
+P-00449,Allow Push,Clothing,Men,852.57,507.71,22
+P-00450,Yet Election,Electronics,Mobile,928.77,763.52,38
+P-00451,Team Manager,Books,Mobile,566.88,381.63,96
+P-00452,Movement Occur,Clothing,Men,31.54,17.56,64
+P-00453,Hotel Light,Books,Living Room,158.65,99.67,29
+P-00454,Impact Course,Books,Kitchen,896.48,752.73,25
+P-00455,Ready Answer,Home Appliances,Laptops,737.02,592.29,69
+P-00456,Simple Market,Furniture,Women,304.15,258.13,24
+P-00457,Just Race,Books,Mobile,654.68,366.38,94
+P-00458,Report Yourself,Furniture,Mobile,926.72,722.12,49
+P-00459,Quite Vote,Furniture,Mobile,558.82,422.42,20
+P-00460,Bank Beyond,Furniture,Mobile,117.14,65.57,42
+P-00461,Someone Guess,Books,Women,332.57,206.88,70
+P-00462,Plant Happen,Home Appliances,Women,983.63,590.39,47
+P-00463,Leader Face,Electronics,Non-Fiction,793.49,482.71,99
+P-00464,After Response,Electronics,Mobile,215.85,169.32,43
+P-00465,Simple Collection,Books,Kitchen,451.01,277.63,20
+P-00466,Event Board,Electronics,Mobile,982.06,713.97,15
+P-00467,That Where,Furniture,Women,195.29,126.58,43
+P-00468,Receive Hour,Books,Women,803.21,631.81,59
+P-00469,Property Price,Books,Living Room,109.83,85.15,11
+P-00470,Feeling Past,Electronics,Laptops,356.28,238.56,45
+P-00471,Level Race,Home Appliances,Men,198.02,169.71,58
+P-00472,Politics Source,Home Appliances,Living Room,809.72,492.64,64
+P-00473,Great Country,Furniture,Men,368.47,234.5,71
+P-00474,Out Main,Home Appliances,Mobile,241.4,180.08,50
+P-00475,Floor Surface,Books,Living Room,598.02,319.46,96
+P-00476,Administration Away,Furniture,Mobile,135.81,91.66,11
+P-00477,Two Hair,Clothing,Living Room,778.08,565.92,50
+P-00478,Never Music,Clothing,Fiction,844.23,502.58,91
+P-00479,Crime Involve,Home Appliances,Fiction,237.38,128.92,10
+P-00480,By Adult,Home Appliances,Fiction,459.97,345.88,55
+P-00481,Brother Exactly,Clothing,Living Room,717.7,582.36,29
+P-00482,Wind Race,Electronics,Kitchen,853.32,707.59,67
+P-00483,Pay Become,Clothing,Mobile,297.71,183.37,50
+P-00484,Price Country,Electronics,Non-Fiction,178.39,137.3,36
+P-00485,Claim Work,Furniture,Non-Fiction,836.64,433.86,38
+P-00486,Every New,Books,Men,452.92,318.67,38
+P-00487,Where Beautiful,Electronics,Kitchen,88.82,51.48,51
+P-00488,Blue Short,Electronics,Fiction,796.4,637.52,96
+P-00489,Protect Near,Clothing,Fiction,263.74,183.0,71
+P-00490,Itself Well,Electronics,Non-Fiction,53.49,39.72,31
+P-00491,Operation Girl,Electronics,Mobile,81.64,46.95,84
+P-00492,Strategy Culture,Home Appliances,Laptops,135.54,73.15,70
+P-00493,Heart Anyone,Books,Laptops,138.44,72.26,32
+P-00494,Exist After,Furniture,Fiction,322.98,169.97,84
+P-00495,Tend Trial,Furniture,Fiction,626.65,358.03,94
+P-00496,Religious Every,Furniture,Mobile,379.87,234.05,85
+P-00497,Open Hold,Home Appliances,Living Room,367.68,207.54,89
+P-00498,Hot Teach,Electronics,Women,529.96,358.02,52
+P-00499,Decade Cut,Home Appliances,Non-Fiction,494.53,326.84,69
+P-00500,Arm Decide,Furniture,Kitchen,307.55,162.75,39
+P-00501,Similar Treatment,Home Appliances,Kitchen,118.76,83.82,29
+P-00502,Care Likely,Books,Mobile,149.56,120.29,14
+P-00503,Appear Else,Electronics,Laptops,644.59,328.79,23
+P-00504,Lead Surface,Electronics,Non-Fiction,695.25,578.58,78
+P-00505,Commercial Challenge,Books,Men,614.6,316.75,33
+P-00506,Create Must,Books,Kitchen,483.65,433.95,99
+P-00507,General Take,Books,Mobile,767.71,635.01,90
+P-00508,What Lay,Electronics,Men,473.66,422.55,88
+P-00509,Around Admit,Clothing,Fiction,861.15,697.54,36
+P-00510,City Party,Furniture,Non-Fiction,66.4,46.88,57
+P-00511,Cell Republican,Electronics,Kitchen,148.44,96.3,39
+P-00512,Base East,Books,Women,811.48,664.54,72
+P-00513,Write Floor,Furniture,Non-Fiction,819.57,552.16,36
+P-00514,Old Plan,Electronics,Living Room,521.56,319.64,65
+P-00515,Meet Number,Home Appliances,Living Room,289.91,167.74,45
+P-00516,Three Throughout,Books,Laptops,375.21,190.17,100
+P-00517,Husband Ten,Electronics,Kitchen,520.37,278.94,87
+P-00518,Happy Identify,Furniture,Women,576.74,346.2,36
+P-00519,Degree First,Furniture,Fiction,933.89,609.34,41
+P-00520,Himself Present,Electronics,Kitchen,385.89,227.14,18
+P-00521,Expert Degree,Books,Men,567.8,491.57,33
+P-00522,Level Chance,Books,Non-Fiction,714.48,587.63,81
+P-00523,Act Record,Electronics,Fiction,721.68,377.71,58
+P-00524,Near Arrive,Books,Living Room,813.25,649.44,77
+P-00525,Serious Indeed,Books,Men,851.49,507.26,85
+P-00526,Be Democratic,Furniture,Men,530.49,427.2,89
+P-00527,Since Democratic,Books,Women,765.26,485.2,77
+P-00528,Country Reflect,Electronics,Living Room,599.44,484.52,77
+P-00529,Pressure Allow,Books,Kitchen,520.77,435.88,82
+P-00530,Serious Level,Books,Women,395.54,310.56,63
+P-00531,Same Personal,Clothing,Women,636.59,385.81,63
+P-00532,Doctor Relationship,Electronics,Non-Fiction,556.79,461.79,45
+P-00533,Food Tree,Furniture,Men,788.94,702.74,77
+P-00534,First Sister,Furniture,Men,943.81,840.72,33
+P-00535,Hand Red,Books,Non-Fiction,686.37,422.81,38
+P-00536,Behavior Carry,Furniture,Non-Fiction,962.8,792.45,25
+P-00537,Race Next,Books,Laptops,946.36,840.28,37
+P-00538,Majority Result,Home Appliances,Living Room,350.13,203.23,68
+P-00539,Town Mind,Electronics,Laptops,678.9,478.28,81
+P-00540,Sure Nation,Furniture,Mobile,165.84,108.93,32
+P-00541,Enough Season,Home Appliances,Non-Fiction,37.85,27.05,43
+P-00542,Son Sing,Electronics,Mobile,485.69,325.7,92
+P-00543,Safe Player,Clothing,Men,90.03,48.75,46
+P-00544,Product Be,Furniture,Women,669.25,472.78,20
+P-00545,Beyond Authority,Clothing,Kitchen,724.29,378.04,59
+P-00546,Provide Future,Electronics,Women,555.58,474.7,59
+P-00547,Car Year,Home Appliances,Women,310.08,235.72,17
+P-00548,Much Lawyer,Home Appliances,Fiction,778.93,545.89,97
+P-00549,Continue Late,Electronics,Living Room,291.97,228.74,32
+P-00550,Far Then,Electronics,Laptops,687.11,424.47,84
+P-00551,Against Defense,Furniture,Kitchen,758.39,415.69,33
+P-00552,A Listen,Home Appliances,Kitchen,938.04,608.29,69
+P-00553,Music Bit,Clothing,Men,905.68,512.87,56
+P-00554,Radio Audience,Clothing,Fiction,234.71,136.86,17
+P-00555,Her Day,Books,Mobile,962.5,572.31,55
+P-00556,Situation Until,Clothing,Mobile,653.79,479.24,56
+P-00557,Model Above,Clothing,Non-Fiction,784.59,662.14,54
+P-00558,Address Manager,Clothing,Kitchen,254.11,185.22,82
+P-00559,Four Begin,Furniture,Men,804.94,584.65,100
+P-00560,Food Movement,Books,Mobile,122.75,97.16,25
+P-00561,Trip Simply,Clothing,Living Room,732.96,460.17,100
+P-00562,Computer Hear,Home Appliances,Living Room,32.22,17.46,33
+P-00563,Box The,Books,Mobile,345.4,301.09,17
+P-00564,Dog What,Electronics,Women,436.44,315.96,83
+P-00565,Defense Later,Electronics,Non-Fiction,384.24,241.91,91
+P-00566,Two Group,Books,Women,640.01,434.18,55
+P-00567,Compare Road,Furniture,Men,370.28,266.83,28
+P-00568,Executive Low,Electronics,Women,907.58,777.59,34
+P-00569,After Allow,Clothing,Kitchen,622.32,415.94,67
+P-00570,Step Behavior,Home Appliances,Men,729.66,393.94,61
+P-00571,Edge True,Clothing,Men,135.48,80.77,24
+P-00572,Every Perform,Home Appliances,Women,457.58,401.11,57
+P-00573,Over Simply,Home Appliances,Women,550.89,327.21,16
+P-00574,Feel Next,Furniture,Non-Fiction,301.77,185.57,15
+P-00575,Protect Teach,Furniture,Men,126.59,82.38,58
+P-00576,Open Medical,Books,Living Room,412.73,240.02,94
+P-00577,Anyone Majority,Books,Fiction,893.0,753.35,14
+P-00578,Evening Attention,Books,Women,859.17,721.26,89
+P-00579,Capital None,Books,Living Room,779.7,610.39,98
+P-00580,Stay Agreement,Home Appliances,Laptops,923.84,546.12,100
+P-00581,Foreign Right,Home Appliances,Men,144.7,100.9,95
+P-00582,Quickly Or,Clothing,Mobile,415.94,274.08,56
+P-00583,Ahead Challenge,Books,Mobile,484.81,312.04,39
+P-00584,Thought Order,Electronics,Kitchen,10.47,6.92,49
+P-00585,New Test,Furniture,Laptops,794.08,437.42,10
+P-00586,Heavy Thing,Home Appliances,Kitchen,444.0,369.01,67
+P-00587,Since Live,Electronics,Men,434.52,219.36,61
+P-00588,Listen Cell,Clothing,Non-Fiction,652.87,523.61,83
+P-00589,Test Natural,Books,Men,633.32,470.02,22
+P-00590,Case Church,Home Appliances,Fiction,137.84,118.76,47
+P-00591,Outside Difficult,Books,Fiction,38.03,22.6,89
+P-00592,Case Close,Home Appliances,Men,72.11,64.35,34
+P-00593,Respond Agree,Books,Fiction,868.74,440.1,33
+P-00594,Movement Those,Home Appliances,Men,202.28,148.22,98
+P-00595,Four Fire,Furniture,Laptops,303.07,177.72,97
+P-00596,Usually Good,Clothing,Laptops,91.48,52.89,26
+P-00597,Address Toward,Books,Men,86.47,55.51,88
+P-00598,Hot Identify,Electronics,Living Room,145.35,120.42,56
+P-00599,Art Argue,Furniture,Men,26.03,13.85,86
+P-00600,Serious Same,Clothing,Laptops,317.49,199.23,42
+P-00601,Other Eight,Electronics,Women,671.09,487.75,99
+P-00602,Reflect Attack,Electronics,Laptops,350.35,262.86,45
+P-00603,Shake Recent,Furniture,Laptops,160.57,120.75,79
+P-00604,Any Young,Clothing,Kitchen,810.67,467.51,27
+P-00605,Soldier Activity,Clothing,Mobile,273.17,232.99,38
+P-00606,Water Exactly,Furniture,Non-Fiction,308.05,215.66,19
+P-00607,Piece Sit,Home Appliances,Fiction,852.07,490.96,89
+P-00608,Hour Provide,Furniture,Fiction,724.47,364.95,30
+P-00609,Recently South,Electronics,Men,415.77,305.42,79
+P-00610,Dog Election,Books,Non-Fiction,658.98,504.31,75
+P-00611,Many Positive,Home Appliances,Kitchen,837.89,618.78,53
+P-00612,Off Away,Books,Living Room,429.94,303.06,47
+P-00613,Data Model,Furniture,Men,263.69,137.02,51
+P-00614,Will Police,Books,Men,39.91,29.67,57
+P-00615,Moment Treat,Clothing,Non-Fiction,150.53,113.28,23
+P-00616,Attention Itself,Home Appliances,Women,679.69,503.71,63
+P-00617,Seat Fight,Books,Mobile,707.42,562.58,90
+P-00618,Safe Serve,Books,Women,469.36,384.62,81
+P-00619,Party Compare,Electronics,Mobile,738.81,619.82,97
+P-00620,Well Enjoy,Electronics,Laptops,434.6,244.93,41
+P-00621,Industry Determine,Electronics,Fiction,747.32,546.81,80
+P-00622,North Floor,Clothing,Men,135.53,81.74,60
+P-00623,Happen Get,Furniture,Fiction,370.94,210.37,47
+P-00624,Mission Figure,Electronics,Non-Fiction,138.34,106.16,32
+P-00625,Per Hospital,Electronics,Fiction,954.99,533.26,43
+P-00626,Result Seem,Furniture,Men,672.15,472.21,29
+P-00627,Peace Avoid,Furniture,Fiction,776.44,507.33,20
+P-00628,Person Make,Electronics,Women,192.03,136.18,72
+P-00629,Which Note,Electronics,Women,193.81,110.25,66
+P-00630,Cell According,Home Appliances,Kitchen,645.66,345.57,57
+P-00631,Gun Baby,Books,Laptops,516.01,422.11,57
+P-00632,Cultural Break,Clothing,Living Room,686.21,449.74,21
+P-00633,Show Chair,Furniture,Laptops,352.78,188.43,49
+P-00634,Behavior Hard,Books,Men,81.95,57.06,53
+P-00635,Most Red,Books,Laptops,176.0,135.01,23
+P-00636,Listen Instead,Home Appliances,Kitchen,514.25,413.26,62
+P-00637,Much Year,Home Appliances,Kitchen,595.34,423.75,39
+P-00638,Night Sound,Electronics,Men,747.68,597.7,76
+P-00639,Week Raise,Furniture,Mobile,915.97,477.17,18
+P-00640,Page Care,Electronics,Non-Fiction,880.51,791.36,11
+P-00641,Group Evening,Electronics,Women,446.29,229.89,25
+P-00642,Stuff Eat,Home Appliances,Fiction,648.81,571.84,99
+P-00643,Hand Wonder,Furniture,Non-Fiction,660.83,526.17,78
+P-00644,Responsibility House,Furniture,Men,71.22,53.55,64
+P-00645,At Work,Books,Fiction,163.43,131.47,82
+P-00646,Turn Opportunity,Furniture,Men,165.69,95.84,94
+P-00647,Third Response,Furniture,Fiction,622.96,467.8,61
+P-00648,Good Simply,Books,Women,354.86,221.52,55
+P-00649,Lay Glass,Home Appliances,Mobile,691.22,384.79,30
+P-00650,As Pass,Electronics,Fiction,246.34,149.81,28
+P-00651,Onto Though,Clothing,Men,350.25,180.5,61
+P-00652,Few Enough,Furniture,Mobile,575.06,393.36,36
+P-00653,Moment Debate,Electronics,Non-Fiction,962.64,544.28,78
+P-00654,Bad House,Books,Non-Fiction,501.53,412.21,43
+P-00655,Entire Money,Furniture,Laptops,467.85,347.97,52
+P-00656,Dinner Reduce,Clothing,Men,218.27,115.51,49
+P-00657,Should Ball,Home Appliances,Laptops,464.27,375.92,59
+P-00658,Still Likely,Books,Kitchen,614.99,427.46,60
+P-00659,Kitchen Natural,Furniture,Fiction,176.46,120.81,32
+P-00660,Six Respond,Clothing,Women,242.98,179.57,28
+P-00661,West I,Books,Fiction,759.39,651.63,29
+P-00662,Door Dream,Home Appliances,Non-Fiction,960.69,853.36,54
+P-00663,Seek A,Home Appliances,Laptops,656.07,462.03,22
+P-00664,Stay Policy,Electronics,Living Room,360.93,290.62,27
+P-00665,Choice Structure,Electronics,Fiction,46.77,39.64,14
+P-00666,Former Six,Furniture,Mobile,904.97,680.7,48
+P-00667,Catch Capital,Clothing,Men,580.92,298.91,68
+P-00668,Fly Pick,Clothing,Living Room,795.13,490.54,43
+P-00669,Perform Wide,Furniture,Fiction,922.47,593.21,55
+P-00670,Decade Central,Furniture,Mobile,856.2,478.63,39
+P-00671,Eight Lawyer,Electronics,Living Room,329.43,213.22,49
+P-00672,Writer Fact,Electronics,Living Room,80.56,55.28,53
+P-00673,Into Lot,Books,Non-Fiction,127.54,101.45,79
+P-00674,Team Huge,Home Appliances,Kitchen,27.61,22.76,56
+P-00675,Race Each,Home Appliances,Kitchen,24.09,14.69,47
+P-00676,Front Local,Electronics,Living Room,406.44,317.5,88
+P-00677,Some Future,Furniture,Men,20.18,15.98,35
+P-00678,Pick Skill,Books,Fiction,677.66,507.24,76
+P-00679,Method Financial,Furniture,Men,906.9,645.17,94
+P-00680,Money Present,Furniture,Mobile,657.9,379.04,98
+P-00681,Certain Wall,Clothing,Mobile,972.9,709.78,63
+P-00682,Whose Another,Furniture,Non-Fiction,358.63,213.25,68
+P-00683,Thousand Cultural,Clothing,Kitchen,847.25,526.59,34
+P-00684,Leader Why,Clothing,Fiction,160.31,125.37,65
+P-00685,Begin Present,Home Appliances,Living Room,965.48,839.34,77
+P-00686,Vote Produce,Books,Fiction,174.16,148.51,71
+P-00687,Available Around,Furniture,Non-Fiction,131.94,77.93,85
+P-00688,Now Significant,Home Appliances,Non-Fiction,405.56,211.25,96
+P-00689,Street Position,Electronics,Kitchen,141.61,121.92,86
+P-00690,Worker Enough,Furniture,Laptops,341.61,188.13,11
+P-00691,Daughter Short,Clothing,Laptops,748.58,406.53,24
+P-00692,As Movement,Furniture,Mobile,688.19,402.08,30
+P-00693,Compare Though,Electronics,Living Room,430.18,310.85,82
+P-00694,Once Party,Clothing,Laptops,410.84,231.74,58
+P-00695,Pattern Test,Clothing,Kitchen,211.22,189.17,56
+P-00696,Off Speak,Electronics,Women,850.81,590.44,17
+P-00697,Paper Buy,Home Appliances,Mobile,932.11,740.05,97
+P-00698,Form Teach,Furniture,Men,852.14,633.85,22
+P-00699,Late Fill,Furniture,Mobile,801.66,710.5,39
+P-00700,Prove Situation,Clothing,Laptops,18.13,9.28,30
+P-00701,Mean Hope,Home Appliances,Living Room,235.04,148.94,93
+P-00702,All National,Furniture,Living Room,17.91,15.88,28
+P-00703,Approach Statement,Clothing,Mobile,46.9,36.55,99
+P-00704,Million Day,Books,Laptops,637.69,339.2,39
+P-00705,When Sound,Clothing,Non-Fiction,445.12,282.08,89
+P-00706,History Season,Clothing,Laptops,722.36,504.66,81
+P-00707,Happy Property,Clothing,Mobile,604.79,434.78,41
+P-00708,Million During,Electronics,Fiction,992.51,563.51,99
+P-00709,Lay Country,Home Appliances,Living Room,146.81,98.53,21
+P-00710,Ever Until,Books,Non-Fiction,158.44,81.0,24
+P-00711,That Such,Home Appliances,Non-Fiction,983.56,784.12,45
+P-00712,Investment Within,Clothing,Non-Fiction,972.68,675.18,48
+P-00713,Impact Serve,Books,Women,29.24,21.25,60
+P-00714,Nor Agent,Books,Living Room,629.98,384.29,79
+P-00715,So Capital,Home Appliances,Mobile,230.18,157.92,43
+P-00716,Design Garden,Home Appliances,Laptops,878.86,631.6,19
+P-00717,Consider Sister,Books,Men,326.37,233.58,92
+P-00718,Wife Provide,Home Appliances,Non-Fiction,740.68,523.89,99
+P-00719,Language Future,Home Appliances,Living Room,615.16,394.34,31
+P-00720,Report Hold,Home Appliances,Living Room,958.24,816.49,62
+P-00721,Side Onto,Furniture,Mobile,633.26,339.95,27
+P-00722,Suggest Deep,Clothing,Mobile,31.51,26.72,18
+P-00723,Can Wait,Home Appliances,Mobile,485.72,422.71,20
+P-00724,Field Certainly,Electronics,Fiction,158.68,83.43,10
+P-00725,Government Soon,Clothing,Fiction,828.47,492.33,24
+P-00726,Time However,Electronics,Kitchen,882.98,747.46,62
+P-00727,Level Help,Furniture,Mobile,19.69,10.07,16
+P-00728,Group Foot,Electronics,Mobile,338.61,210.9,17
+P-00729,Form Account,Books,Kitchen,279.36,234.46,18
+P-00730,Surface Final,Furniture,Men,416.23,248.63,24
+P-00731,Agency Either,Electronics,Non-Fiction,243.67,128.97,90
+P-00732,Free Hour,Home Appliances,Men,165.37,126.78,41
+P-00733,Available Option,Electronics,Fiction,880.99,571.77,88
+P-00734,Science True,Furniture,Mobile,750.7,476.16,90
+P-00735,Memory Claim,Home Appliances,Living Room,904.37,501.43,36
+P-00736,Social Item,Electronics,Kitchen,15.58,11.39,40
+P-00737,Both Find,Home Appliances,Non-Fiction,664.89,358.28,42
+P-00738,Eye Write,Clothing,Women,353.8,286.46,69
+P-00739,When Current,Books,Living Room,81.96,66.24,30
+P-00740,Skill Daughter,Books,Fiction,650.49,577.11,44
+P-00741,Do Age,Books,Mobile,688.24,404.1,51
+P-00742,Chair Mind,Clothing,Men,931.32,598.39,65
+P-00743,Find Politics,Home Appliances,Living Room,582.62,375.89,16
+P-00744,Shake Play,Books,Fiction,159.62,133.99,23
+P-00745,Radio Opportunity,Clothing,Mobile,316.61,161.47,79
+P-00746,Enjoy Worry,Clothing,Kitchen,618.21,309.89,91
+P-00747,Up Option,Electronics,Kitchen,210.49,129.55,81
+P-00748,Star Employee,Clothing,Laptops,366.65,211.89,66
+P-00749,Walk Miss,Electronics,Kitchen,774.77,433.33,81
+P-00750,She Station,Electronics,Women,700.7,399.35,18
+P-00751,Paper Fact,Books,Laptops,823.46,505.35,97
+P-00752,Whatever Form,Electronics,Kitchen,501.7,445.81,89
+P-00753,Agree Investment,Clothing,Fiction,397.16,221.63,24
+P-00754,Call Suggest,Furniture,Living Room,425.51,218.4,99
+P-00755,North Stuff,Books,Non-Fiction,686.18,461.34,73
+P-00756,Most Go,Furniture,Mobile,39.51,27.51,73
+P-00757,Exist Agreement,Home Appliances,Women,376.2,257.5,27
+P-00758,Rock Several,Books,Women,879.32,622.74,92
+P-00759,Political Will,Electronics,Non-Fiction,189.02,141.76,64
+P-00760,Stock Way,Clothing,Kitchen,12.09,9.68,17
+P-00761,Stock Today,Electronics,Non-Fiction,566.27,333.68,41
+P-00762,Explain Produce,Furniture,Non-Fiction,682.01,409.3,93
+P-00763,Set Sea,Clothing,Living Room,357.04,256.84,75
+P-00764,Foreign Economy,Clothing,Fiction,852.8,653.41,92
+P-00765,What Name,Furniture,Kitchen,40.52,30.96,81
+P-00766,Ball Garden,Electronics,Laptops,805.99,684.58,42
+P-00767,General Interesting,Furniture,Non-Fiction,658.93,468.74,99
+P-00768,Put Western,Furniture,Fiction,287.01,201.77,55
+P-00769,Situation Kitchen,Furniture,Women,827.03,530.23,94
+P-00770,Music Maybe,Furniture,Kitchen,898.7,573.27,32
+P-00771,Consider Should,Furniture,Women,772.33,572.88,84
+P-00772,Leg Specific,Home Appliances,Fiction,274.48,156.03,76
+P-00773,Crime Language,Home Appliances,Women,203.29,111.17,62
+P-00774,Pay Budget,Clothing,Fiction,496.7,316.24,86
+P-00775,Color Yet,Home Appliances,Mobile,837.12,482.72,42
+P-00776,First How,Home Appliances,Kitchen,483.44,352.33,14
+P-00777,Particular International,Clothing,Mobile,645.7,526.29,71
+P-00778,Begin A,Clothing,Laptops,333.32,175.4,16
+P-00779,Social Cup,Clothing,Mobile,332.4,263.1,67
+P-00780,Industry Stage,Clothing,Living Room,196.79,119.14,53
+P-00781,These Ahead,Electronics,Mobile,200.18,157.13,12
+P-00782,Direction Tree,Furniture,Mobile,538.67,473.38,36
+P-00783,Your Exist,Books,Laptops,591.05,394.43,26
+P-00784,Marriage Character,Books,Living Room,655.89,470.74,25
+P-00785,Center Trouble,Furniture,Living Room,628.6,564.4,69
+P-00786,Turn Class,Home Appliances,Non-Fiction,187.23,115.05,20
+P-00787,Family Teacher,Clothing,Fiction,358.78,320.87,73
+P-00788,Control Executive,Clothing,Women,28.67,16.48,64
+P-00789,Reality Still,Furniture,Women,138.24,70.98,74
+P-00790,Baby Of,Home Appliances,Women,841.19,736.43,86
+P-00791,Get Service,Books,Mobile,31.14,23.82,18
+P-00792,Important Laugh,Books,Mobile,421.44,376.09,95
+P-00793,Woman How,Electronics,Kitchen,42.42,26.87,17
+P-00794,Statement Four,Clothing,Non-Fiction,471.0,418.78,11
+P-00795,Small Beautiful,Home Appliances,Fiction,938.02,482.14,37
+P-00796,Understand Anyone,Clothing,Mobile,968.97,526.2,60
+P-00797,Particular Not,Home Appliances,Mobile,610.67,467.2,56
+P-00798,Reflect Blue,Electronics,Men,913.31,619.4,79
+P-00799,To Toward,Books,Mobile,841.13,610.02,35
+P-00800,Policy Reveal,Home Appliances,Men,43.18,26.82,21
+P-00801,Now Morning,Books,Mobile,489.13,398.28,24
+P-00802,Among Marriage,Home Appliances,Kitchen,67.59,54.74,69
+P-00803,Certainly Social,Electronics,Men,262.47,219.94,27
+P-00804,Occur Realize,Home Appliances,Fiction,869.05,640.59,32
+P-00805,Enough Some,Clothing,Women,102.17,87.49,79
+P-00806,Least Try,Home Appliances,Living Room,398.11,312.05,13
+P-00807,Skin Author,Furniture,Women,26.22,19.93,56
+P-00808,Staff Material,Electronics,Living Room,41.39,23.92,93
+P-00809,Write Mean,Books,Non-Fiction,567.92,505.72,16
+P-00810,Others Most,Books,Fiction,141.36,92.13,38
+P-00811,Everybody Low,Home Appliances,Women,450.86,318.77,15
+P-00812,Price Across,Clothing,Laptops,546.72,432.16,94
+P-00813,Study Focus,Home Appliances,Living Room,693.59,377.5,15
+P-00814,Full As,Furniture,Living Room,819.09,547.64,71
+P-00815,Picture Good,Home Appliances,Living Room,372.66,322.26,40
+P-00816,Action Work,Clothing,Mobile,408.86,261.66,90
+P-00817,Local Oil,Home Appliances,Non-Fiction,289.73,154.93,16
+P-00818,Natural Yet,Electronics,Laptops,695.72,485.32,89
+P-00819,Turn Century,Home Appliances,Mobile,566.92,406.78,46
+P-00820,Finish Particular,Furniture,Women,789.06,486.58,80
+P-00821,Offer Describe,Furniture,Women,710.17,451.47,42
+P-00822,Early Physical,Books,Living Room,290.63,198.31,16
+P-00823,Husband Expert,Clothing,Fiction,277.07,184.49,86
+P-00824,Need Large,Clothing,Living Room,992.66,644.75,71
+P-00825,Prove Cover,Electronics,Women,976.77,518.56,99
+P-00826,Season Its,Home Appliances,Laptops,510.32,346.28,76
+P-00827,Set Tend,Books,Fiction,251.38,194.85,22
+P-00828,Wait Key,Books,Non-Fiction,878.27,455.11,72
+P-00829,Level Model,Home Appliances,Mobile,508.24,444.05,82
+P-00830,Sister Same,Books,Mobile,840.48,490.72,52
+P-00831,Interest Style,Electronics,Mobile,71.5,58.89,80
+P-00832,Relate Piece,Home Appliances,Laptops,632.93,501.87,84
+P-00833,Music Low,Books,Laptops,586.14,388.87,82
+P-00834,Game Boy,Electronics,Living Room,182.32,124.71,19
+P-00835,Range Outside,Furniture,Women,441.46,332.2,58
+P-00836,Floor Option,Electronics,Mobile,129.76,106.05,94
+P-00837,Talk Same,Clothing,Living Room,706.81,430.7,37
+P-00838,Fight Majority,Books,Kitchen,185.48,148.75,16
+P-00839,Idea Relationship,Electronics,Men,549.91,447.0,77
+P-00840,Citizen Degree,Clothing,Kitchen,113.15,57.87,95
+P-00841,So The,Home Appliances,Fiction,413.15,366.6,71
+P-00842,Expect Window,Clothing,Men,664.26,572.43,90
+P-00843,Perform Pay,Furniture,Living Room,851.46,502.76,66
+P-00844,Top Together,Furniture,Non-Fiction,667.89,587.38,50
+P-00845,Together Republican,Clothing,Kitchen,987.36,705.32,92
+P-00846,Prevent Sit,Clothing,Living Room,27.84,24.72,54
+P-00847,Skill Fill,Books,Men,584.97,498.37,63
+P-00848,Fund Never,Books,Women,544.63,358.19,55
+P-00849,Eat Theory,Clothing,Fiction,215.77,192.03,21
+P-00850,Scientist Mr,Books,Women,986.62,552.42,73
+P-00851,Green Rather,Clothing,Non-Fiction,560.74,471.76,39
+P-00852,Ok Culture,Home Appliances,Non-Fiction,12.03,9.99,58
+P-00853,Center Professional,Clothing,Men,142.07,106.2,11
+P-00854,Travel Doctor,Clothing,Women,465.8,400.06,89
+P-00855,Record Single,Furniture,Fiction,839.75,525.13,42
+P-00856,Movie Science,Home Appliances,Men,357.59,228.21,26
+P-00857,Management Future,Home Appliances,Mobile,270.49,199.26,36
+P-00858,They Bed,Furniture,Fiction,926.15,778.57,73
+P-00859,Left Street,Electronics,Men,379.92,201.36,70
+P-00860,Factor Worker,Furniture,Women,533.03,297.41,95
+P-00861,People East,Home Appliances,Women,621.16,429.13,72
+P-00862,Together Color,Books,Laptops,598.83,513.78,42
+P-00863,Every Between,Furniture,Fiction,183.97,155.12,45
+P-00864,Stand Size,Electronics,Laptops,153.88,92.62,30
+P-00865,Baby Issue,Books,Men,453.28,364.98,86
+P-00866,Himself Long,Electronics,Laptops,678.15,457.55,97
+P-00867,Professional Up,Furniture,Mobile,387.98,204.34,40
+P-00868,Seek Community,Home Appliances,Laptops,926.77,466.62,40
+P-00869,Far Common,Books,Women,467.08,247.25,45
+P-00870,Whether Between,Furniture,Kitchen,755.37,551.32,25
+P-00871,Perhaps Doctor,Books,Living Room,204.52,133.97,79
+P-00872,They No,Home Appliances,Fiction,623.86,526.75,55
+P-00873,Room Author,Electronics,Living Room,776.67,522.64,70
+P-00874,Push Oil,Clothing,Kitchen,43.49,28.9,87
+P-00875,Reflect Heart,Electronics,Non-Fiction,657.17,368.07,76
+P-00876,Heart Fall,Books,Mobile,442.62,383.18,95
+P-00877,Relationship Reach,Furniture,Fiction,88.35,79.05,26
+P-00878,Condition View,Books,Men,493.13,274.0,45
+P-00879,Available Goal,Clothing,Men,860.83,523.18,10
+P-00880,On Discussion,Electronics,Living Room,108.61,90.65,64
+P-00881,Apply Remember,Clothing,Mobile,12.08,6.5,39
+P-00882,Few Approach,Home Appliances,Mobile,727.6,384.93,92
+P-00883,Skin Common,Furniture,Fiction,111.65,59.88,95
+P-00884,Move Instead,Furniture,Fiction,798.16,434.71,78
+P-00885,Likely Begin,Home Appliances,Fiction,56.38,31.42,75
+P-00886,Option Similar,Home Appliances,Kitchen,219.86,128.56,49
+P-00887,Mean Camera,Electronics,Laptops,820.97,471.91,25
+P-00888,Main Happen,Furniture,Mobile,548.33,486.96,40
+P-00889,Century Hope,Clothing,Non-Fiction,858.59,711.04,21
+P-00890,Reality Add,Furniture,Kitchen,871.34,669.44,14
+P-00891,Drop Detail,Electronics,Fiction,162.76,112.3,39
+P-00892,A Necessary,Books,Non-Fiction,887.46,657.19,84
+P-00893,Treat Lose,Home Appliances,Mobile,463.94,396.7,63
+P-00894,Sort Majority,Books,Men,140.1,81.96,88
+P-00895,Anyone Science,Home Appliances,Men,158.43,106.0,95
+P-00896,Key Put,Books,Fiction,410.64,234.3,78
+P-00897,Society Present,Books,Women,712.34,413.39,80
+P-00898,Practice Real,Furniture,Fiction,962.34,747.17,61
+P-00899,Idea Even,Electronics,Men,776.7,568.2,26
+P-00900,Wait Yeah,Furniture,Non-Fiction,811.81,685.43,99
+P-00901,Floor Beat,Electronics,Fiction,66.32,53.31,20
+P-00902,Once Decision,Clothing,Women,723.6,494.04,87
+P-00903,Effect Behavior,Home Appliances,Kitchen,464.39,276.47,96
+P-00904,Design Traditional,Furniture,Fiction,567.95,408.65,12
+P-00905,Include Science,Clothing,Mobile,97.52,73.22,41
+P-00906,Member Evening,Clothing,Kitchen,888.0,708.31,33
+P-00907,Coach In,Furniture,Laptops,937.67,532.06,88
+P-00908,Increase Mrs,Furniture,Kitchen,770.0,385.7,51
+P-00909,Likely Think,Furniture,Non-Fiction,195.7,107.24,41
+P-00910,Value Add,Home Appliances,Women,351.35,313.54,79
+P-00911,Card Discover,Clothing,Kitchen,777.86,446.46,27
+P-00912,Mission Manager,Home Appliances,Men,260.18,139.65,17
+P-00913,Specific Organization,Electronics,Living Room,256.37,201.17,59
+P-00914,Admit Stuff,Clothing,Kitchen,169.1,107.46,28
+P-00915,Government Kind,Furniture,Women,764.57,623.1,31
+P-00916,Bag Able,Books,Kitchen,375.33,303.5,23
+P-00917,Goal No,Home Appliances,Non-Fiction,792.63,436.71,51
+P-00918,Figure Herself,Books,Non-Fiction,930.59,531.14,77
+P-00919,Order Great,Electronics,Men,20.14,12.59,64
+P-00920,Similar Issue,Books,Fiction,515.08,259.78,73
+P-00921,Reduce Player,Clothing,Men,791.71,559.24,74
+P-00922,Arm Week,Furniture,Fiction,374.15,263.26,12
+P-00923,Require Green,Clothing,Women,156.17,135.13,49
+P-00924,Capital Start,Furniture,Laptops,232.17,118.96,89
+P-00925,Force Pattern,Furniture,Kitchen,140.38,70.46,21
+P-00926,Still Identify,Electronics,Mobile,978.27,879.69,70
+P-00927,Although Deal,Books,Living Room,772.16,563.65,87
+P-00928,Peace Case,Electronics,Women,768.95,506.25,61
+P-00929,Relationship Stock,Books,Women,600.86,473.35,30
+P-00930,Her Blood,Home Appliances,Women,537.9,371.58,95
+P-00931,Law At,Furniture,Laptops,367.09,327.66,89
+P-00932,Support Care,Clothing,Men,916.85,497.55,59
+P-00933,Cold Himself,Home Appliances,Living Room,447.01,388.66,24
+P-00934,Crime Artist,Furniture,Laptops,136.79,113.98,66
+P-00935,Make Pick,Home Appliances,Laptops,733.37,431.59,68
+P-00936,Still Month,Clothing,Women,436.26,366.25,68
+P-00937,She Away,Home Appliances,Laptops,723.53,480.13,42
+P-00938,Side Room,Home Appliances,Men,627.47,486.42,68
+P-00939,Reflect Require,Furniture,Laptops,194.28,125.96,34
+P-00940,Nature Focus,Books,Mobile,382.92,297.16,75
+P-00941,Series Skin,Electronics,Laptops,31.64,24.23,52
+P-00942,Kid Crime,Clothing,Women,508.04,428.9,35
+P-00943,Something Low,Electronics,Fiction,198.31,113.13,68
+P-00944,Bit Successful,Clothing,Non-Fiction,330.27,208.04,33
+P-00945,Color Grow,Home Appliances,Mobile,843.08,507.64,66
+P-00946,Travel Sea,Books,Fiction,632.33,539.83,92
+P-00947,So Then,Books,Fiction,921.98,516.48,11
+P-00948,Team Range,Home Appliances,Men,777.75,536.38,25
+P-00949,Idea Rich,Electronics,Kitchen,374.99,315.32,62
+P-00950,After These,Electronics,Men,942.54,620.24,83
+P-00951,Everybody Once,Clothing,Non-Fiction,164.84,131.55,71
+P-00952,Lose Point,Electronics,Women,379.55,212.26,40
+P-00953,Place Meeting,Furniture,Mobile,30.18,24.82,10
+P-00954,Team Likely,Electronics,Non-Fiction,992.04,591.55,57
+P-00955,Meeting Professional,Books,Women,720.84,424.89,71
+P-00956,May It,Furniture,Kitchen,202.32,165.83,23
+P-00957,Air Entire,Electronics,Women,512.14,394.12,80
+P-00958,Information Design,Furniture,Kitchen,432.7,263.74,85
+P-00959,Eat Son,Home Appliances,Non-Fiction,634.13,371.06,97
+P-00960,Cause Tend,Books,Men,115.15,63.22,27
+P-00961,Open Certainly,Books,Living Room,86.13,75.85,61
+P-00962,Threat Energy,Books,Mobile,916.19,819.18,55
+P-00963,Number Build,Books,Laptops,83.74,66.36,42
+P-00964,Region More,Books,Mobile,527.16,455.76,78
+P-00965,Information Base,Electronics,Mobile,230.84,167.62,69
+P-00966,Specific Message,Electronics,Men,731.19,649.89,79
+P-00967,City Body,Electronics,Women,530.52,345.01,73
+P-00968,Including Child,Books,Mobile,91.84,49.71,28
+P-00969,Cold Mrs,Clothing,Men,839.29,654.85,75
+P-00970,General Court,Furniture,Men,89.62,62.39,43
+P-00971,Source Expect,Home Appliances,Women,637.74,560.53,38
+P-00972,While Concern,Furniture,Women,989.52,728.48,14
+P-00973,Congress Top,Furniture,Laptops,877.08,706.09,87
+P-00974,Responsibility Sport,Electronics,Laptops,711.74,362.86,42
+P-00975,On Society,Home Appliances,Women,295.54,186.4,92
+P-00976,Special Feel,Furniture,Laptops,127.32,67.88,32
+P-00977,Business About,Electronics,Fiction,661.4,419.49,85
+P-00978,Leg Fast,Home Appliances,Laptops,641.67,395.36,42
+P-00979,Old Special,Furniture,Fiction,751.91,606.26,64
+P-00980,Run Argue,Clothing,Women,305.56,190.92,63
+P-00981,Cover Face,Books,Non-Fiction,959.99,769.14,68
+P-00982,Color Inside,Furniture,Non-Fiction,766.25,385.69,80
+P-00983,Technology Admit,Furniture,Mobile,257.22,140.14,97
+P-00984,Situation Leg,Furniture,Women,817.56,418.98,26
+P-00985,Generation National,Furniture,Kitchen,350.46,287.72,49
+P-00986,Recognize Author,Clothing,Mobile,203.57,136.18,70
+P-00987,Itself Stock,Electronics,Women,500.87,423.62,62
+P-00988,Dream Both,Electronics,Men,215.56,176.8,99
+P-00989,Black Keep,Electronics,Fiction,365.86,273.01,35
+P-00990,Possible Sit,Clothing,Kitchen,830.91,594.69,74
+P-00991,How Compare,Books,Living Room,910.21,756.49,90
+P-00992,School Responsibility,Home Appliances,Living Room,919.23,698.77,43
+P-00993,Letter Century,Furniture,Living Room,771.9,596.7,55
+P-00994,Democrat Contain,Electronics,Fiction,698.58,486.37,12
+P-00995,Century Today,Electronics,Laptops,601.1,446.08,81
+P-00996,Available Major,Electronics,Kitchen,36.83,21.57,58
+P-00997,Rule Place,Electronics,Fiction,15.58,8.75,28
+P-00998,American Against,Furniture,Kitchen,852.37,558.88,97
+P-00999,Receive Character,Furniture,Non-Fiction,83.78,62.49,67
+P-01000,Challenge Democratic,Books,Non-Fiction,623.15,337.8,12
