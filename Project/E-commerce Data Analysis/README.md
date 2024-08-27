@@ -20,6 +20,14 @@ The dataset consists of three primary tables:
    - **Columns:** order_id, customer_id, product_id, quantity, total_price, payment_mode, order_date, order_status
    - **Description:** Captures information about customer orders, including transaction details and order statuses.
 
+## Data Files
+
+This project includes sample CSV files for analysis. These files contain mock data representing different aspects of the e-commerce business:
+
+- **customer.csv**: Contains customer details such as ID, name, city, email, phone number, address, and pin code.
+- **product.csv**: Includes product information including product ID, name, category, sub-category, original price, selling price, and stock levels.
+- **order_details.csv**: Captures order transactions, including order ID, customer ID, product ID, quantity, total price, payment mode, order date, and order status.
+
 ## Analysis Objectives
 
 1. **Customer Analysis:**
