@@ -8,16 +8,16 @@ The E-Commerce Data Analysis project aims to uncover valuable insights from a fi
 
 The dataset consists of three primary tables:
 
-1. **Customer Table (`customer`)**
-   - **Columns:** `customer_id`, `name`, `city`, `email`, `phone_no`, `address`, `pin_code`
+1. **Customer Table (customer)**
+   - **Columns:** customer_id, name, city, email, phone_no, address, pin_code
    - **Description:** Contains detailed information about customers, including their demographics and contact details.
 
-2. **Product Table (`product`)**
-   - **Columns:** `product_id`, `product_name`, `category`, `sub_category`, `original_price`, `selling_price`, `stock`
+2. **Product Table (product)**
+   - **Columns:** product_id, product_name, category, sub_category, original_price, selling_price, stock
    - **Description:** Provides details about the products available for purchase, such as pricing and inventory levels.
 
-3. **Order Details Table (`order_details`)**
-   - **Columns:** `order_id`, `customer_id`, `product_id`, `quantity`, `total_price`, `payment_mode`, `order_date`, `order_status`
+3. **Order Details Table (order_details)**
+   - **Columns:** order_id, customer_id, product_id, quantity, total_price, payment_mode, order_date, order_status
    - **Description:** Captures information about customer orders, including transaction details and order statuses.
 
 ## Analysis Objectives
